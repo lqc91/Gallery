@@ -302,3 +302,15 @@
 .gallery__image8{
   background:url('../images/g8.jpg') center/cover no-repeat;
 }
+
+.footer{
+  background:#7C9FCB;
+  height:80px;
+}
+.footer__cprt{
+  font-size:20px;
+  font-family:'宋体', serif;
+  line-height:80px;
+  text-align:center;
+  color:#FFF;
+}
