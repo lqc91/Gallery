@@ -254,3 +254,51 @@
   transform:rotate(45deg);
   z-index:100;
 }
+
+.gallery{
+  height:805px;
+  background:#E7EFF2;
+}
+.gallery__title{
+  font-size:48px;
+  font-family:'宋体', serif;
+  font-weight:bold;
+  text-align:center;
+  line-height:190px;
+}
+.gallery__images{
+  width:1160px;
+  padding:0 10px;
+  margin:0 auto;
+}
+.gallery__image{
+  float:left;
+  width:250px;
+  height:250px;
+  margin:10px;
+  border:5px solid #DBDBDB;
+}
+.gallery__image1{
+  background:url('../images/g1.jpg') center/cover no-repeat;
+}
+.gallery__image2{
+  background:url('../images/g2.jpg') center/cover no-repeat;
+}
+.gallery__image3{
+  background:url('../images/g3.jpg') center/cover no-repeat;
+}
+.gallery__image4{
+  background:url('../images/g4.jpg') center/cover no-repeat;
+}
+.gallery__image5{
+  background:url('../images/g5.jpg') center/cover no-repeat;
+}
+.gallery__image6{
+  background:url('../images/g6.jpg') center/cover no-repeat;
+}
+.gallery__image7{
+  background:url('../images/g7.jpg') center/cover no-repeat;
+}
+.gallery__image8{
+  background:url('../images/g8.jpg') center/cover no-repeat;
+}
